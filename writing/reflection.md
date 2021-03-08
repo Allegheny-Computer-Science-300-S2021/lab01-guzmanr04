@@ -25,6 +25,7 @@ To my understanding this tool addresses sequence adapters which are short DNA se
 
 
 ### Second Tool
+Kent WJ, Sugnet CW, Furey TS, Roskin KM, Pringle TH, Zahler AM, Haussler D. The human genome browser at UCSC. Genome Res. 2002 Jun;12(6):996-1006.
 
  1. What kind of research is this method or tool used for?
  From what I understood, this tool is where genome data is stored. With this kind of data available to just about everyone allows for many kinds of research in genetics to take place. However, this tool provides a huge amount of information at first glance which is quite overwhelming.
