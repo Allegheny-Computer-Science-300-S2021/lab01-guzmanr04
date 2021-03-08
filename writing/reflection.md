@@ -27,12 +27,13 @@ To my understanding this tool addresses sequence adapters which are short DNA se
 ### Second Tool
 
  1. What kind of research is this method or tool used for?
- `TODO`
+ From what I understood, this tool is where genome data is stored. With this kind of data available to just about everyone allows for many kinds of research in genetics to take place. However, this tool provides a huge amount of information at first glance which is quite overwhelming.
 
  2. How does this method or tool work? What does it do?
- `TODO`
+ The tool allows researchers to find information on different kinds of genes. For example, it provides information on how long the base pairs are and the very structure of the gene. Using the genome browser one is able to go through the start and end of the gene by sections to get a better understanding of particular section down to the codons.
 
  3. Why do you think that this method or tool was necessary to develop?
- `TODO`
+ This tool has quite a few different kinds of applications but I would like to argue that it was developed for people to be able to get some practice on breaking down the genome assembly.
 
- 4. What undesirable consequences could result from the misuse of this method of tool? `TODO`
+ 4. What undesirable consequences could result from the misuse of this method of tool?
+ This tool has the genes of many different sources and are essentially composite genomes. As such it is not a great source of information for research but it would be an excellent place to build a foundation to better understand genomes.
